@@ -1,0 +1,26 @@
+{
+     "firstName": "Cheryl",
+     "lastName": "Chang",
+     "foodList": {
+          "foodListName": "Cheryl's diary",
+          "foodList": [
+               {
+                    "foodName": "pear",
+                    "amount": 100,
+                    "calorie": 50
+               },
+               {
+                    "foodName": "banana",
+                    "amount": 250,
+                    "calorie": 120
+               },
+               {
+                    "foodName": "beef",
+                    "amount": 150,
+                    "calorie": 130
+               }
+          ]
+     },
+     "weight": 55,
+     "height": 1.7
+}

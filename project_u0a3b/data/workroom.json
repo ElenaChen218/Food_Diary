@@ -1,0 +1,9 @@
+{
+    "firstName": "Elena",
+    "lastName": "Chen",
+    "gender": "Female",
+    "foodList": "model.FoodList@24d46ca6",
+    "weight": 50,
+    "age": 19,
+    "height": 165
+}

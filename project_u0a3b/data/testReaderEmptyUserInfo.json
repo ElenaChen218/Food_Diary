@@ -1,0 +1,10 @@
+{
+  "firstName":"",
+  "lastName": "",
+  "foodList": {
+    "foodListName": "",
+    "foodList": []
+  },
+  "weight": 0,
+  "height": 0
+}

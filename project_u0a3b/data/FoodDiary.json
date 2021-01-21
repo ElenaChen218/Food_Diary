@@ -1,0 +1,26 @@
+{
+     "firstName": "Elena",
+     "lastName": "Chen",
+     "foodList": {
+          "foodListName": "mydiary",
+          "foodList": [
+               {
+                    "foodName": "banana",
+                    "amount": 200,
+                    "calorie": 126
+               },
+               {
+                    "foodName": "beef",
+                    "amount": 40,
+                    "calorie": 120
+               },
+               {
+                    "foodName": "pear",
+                    "amount": 10,
+                    "calorie": 40
+               }
+          ]
+     },
+     "weight": 50,
+     "height": 1.65
+}
